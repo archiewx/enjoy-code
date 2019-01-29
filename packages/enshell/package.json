@@ -1,0 +1,29 @@
+{
+  "name": "@encode/enshell",
+  "version": "0.1.0",
+  "description": "simple shell ",
+  "keywords": [
+    "shell"
+  ],
+  "author": "zsirfs <zhenglfsir@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/shell.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.org/",
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "dev-utils": "^0.1.0"
+  }
+}
