@@ -1,6 +1,6 @@
 {
   "name": "@encode/enshell",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "simple shell ",
   "keywords": [
     "shell"
